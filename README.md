@@ -9,7 +9,7 @@
 
 ```pip install -r dependecy/requirements.txt```
 
-- run the script to install the latest version of python
+- run the script to install the latest version of ventoy 
   - if you want you can candelarize the execution of the script according to the use you want to make of it
 
 ## EXECUTE
